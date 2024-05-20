@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(0, 47, 255, 0.274);
+}
+h1,h2 {
+    text-align: center;
+}
+.left{
+    display: inline-block;   
+}
+.right{
+    
+    float: right;
+}
